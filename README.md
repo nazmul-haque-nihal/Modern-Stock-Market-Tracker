@@ -6,7 +6,10 @@
 [![Flask](https://img.shields.io/badge/flask-2.3%2B-blue)](https://flask.palletsprojects.com/)
 
 A cutting-edge, real-time stock market tracking application with advanced dashboard analytics, interactive charts, and modern UI design.
+
 <img width="852" height="385" alt="Screenshot_20250908_140111" src="https://github.com/user-attachments/assets/8f670feb-1992-42e9-a78d-7559165d125b" />
+<img width="922" height="856" alt="Screenshot_20250909_090027" src="https://github.com/user-attachments/assets/584c2e96-1d86-4626-8185-f01682f75634" />
+
 
 ## 🌟 Features
 
