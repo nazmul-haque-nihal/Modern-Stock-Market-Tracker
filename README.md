@@ -64,7 +64,7 @@ A cutting-edge, real-time stock market tracking application with advanced dashbo
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/stock-market-tracker.git
+git clone https://github.com/nazmul-haque-nihal/stock-market-tracker.git
 cd stock-market-tracker
 ```
 ## 🚀 Setup  
